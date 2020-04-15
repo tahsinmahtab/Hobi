@@ -1,0 +1,497 @@
+/* XL Device :1200px. */
+@media (min-width: 1800px) and (max-width: 1900px) {
+  .slider-img::before {
+      bottom: -85px;
+      left: 0px;
+      width: 767px;
+      height: 650px;
+  }
+
+}
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .slider-img img {
+      height:auto;
+  }
+  .slider-img {
+    right: -140px;
+}
+  .slider-img::before {
+      left: 63px;
+      width: 670px;
+      height: 623px;
+  }
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .header-right {
+      margin-right: 80px;
+  }
+  .single-slider {
+      min-height: 700px;
+  }
+  .slider-content {
+      margin-top: 100px;
+  }
+  .design-title h2 {
+      font-size: 58px;
+  }
+  .skill-title h2 {
+      font-size: 60px;
+      margin-bottom: 35px;
+  }
+  .skill-title span {
+      margin-bottom: 15px;
+  }
+  .progress-text p {
+   margin-bottom: 10px;
+  }
+  .protfolio-area .butn {
+    margin-right: 25px;
+  }
+  .subs-wrapper {
+    padding: 70px 70px;
+  }
+  .work-wrapper {
+    padding: 25px;
+  }
+  .work-img img {
+      margin-right: 20px;
+  }
+  .work-wrapper-title span {
+      font-size: 12px;
+  }
+.work-wrapper-title h3{
+  font-size: 25px;
+}
+.woork-title h2 {
+  font-size: 65px;
+}
+.testimonials-footer-content h4 {
+  font-size: 14px;
+}
+.testimonial-body p {
+  line-height: 25px;
+}
+.testimonials-footer-content span {
+    font-size: 12px;
+}
+.education-images {
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.blog-content h2 {
+    font-size: 21px;
+}
+.blog-content-2 h2 {
+    font-size: 19px;
+}
+.footer-right-title h2 {
+    font-size: 35px;
+    margin-bottom: 35px;
+}
+.footer-single-content a {
+    font-size: 18px;
+}
+}
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-right {
+    margin-right: 60px;
+  }
+  .single-slider {
+      min-height: 650px;
+  }
+  .slider-content {
+      margin-top: 100px;
+  }
+  .subs-title h2 {
+    margin-bottom: 30px;
+  }
+  .skill-img{
+    text-align: center;
+}
+.work-wrapper-title h3{
+font-size: 22px;
+}
+.education-area {
+  padding-bottom: 320px;
+}
+.team-img img {
+  width: 100%;
+  text-align: center;
+}
+.blog-wrapper {
+  margin-bottom: 50px;
+}
+.contact-form{
+  margin-bottom: 50px;
+}
+}
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .header-right {
+      margin-right: 60px;
+  }
+  .single-slider {
+      min-height: 620px;
+  }
+  .slider-content {
+      margin-top: 100px;
+  }
+.header-btn .btn{
+  padding: 17px 20px;
+}
+.slider-title h1 {
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+.design-title h2 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.services-area {
+    padding-top: 50px;
+}
+.skill-title h2 {
+    font-size: 60px;
+}
+.protfolio-area .butn {
+  margin-right: 30px;
+}
+.subs-title h2 {
+  font-size: 38px;
+  margin-bottom: 30px;
+}
+.subs-btn .btn-3 {
+    padding: 20px 40px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.woork-title h2 {
+    font-size: 60px;
+}
+.education-area {
+    padding-bottom: 200px;
+}
+.team-img img {
+  width: 100%;
+  text-align: center;
+}
+.form-btn {
+    margin-bottom: 30px;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
+top: -50px;
+}
+.blog-wrapper {
+  margin-bottom: 50px;
+}
+.footer-right-title h2 {
+    font-size: 29px;
+}
+}
+/* Extra small Device. */
+@media (max-width: 576px){
+  .header-bar.f-right {
+    margin-right: 90px;
+  }
+  .header-area {
+  padding: 20px 30px;
+  }
+  .slider-content {
+      margin-top: 100px;
+  }
+  .single-slider {
+      min-height: 600px;
+  }
+  .mean-container a.meanmenu-reveal {
+  top: 20px;
+  }
+  .slider-title h1 {
+    font-size: 55px;
+  }
+  .slider-content p {
+    font-size: 20px;
+    margin-bottom: 45px;
+  }
+  .design-title h2 {
+      font-size: 50px;
+      margin-bottom: 30px;
+  }
+  .services-area {
+      padding-top: 40px;
+  }
+  .skill-title h2 {
+      font-size: 55px;
+  }
+  .protfolio-area .butn {
+      margin-right: 25px;
+  }
+  .subs-title h2 {
+      font-size: 32px;
+      margin-bottom: 25px;
+  }
+  .subs-btn .btn-3 {
+      padding: 20px 40px;
+      margin-top: 20px;
+      display: inline-block;
+  }
+  .woork-title h2 {
+      font-size: 50px;
+  }
+  .education-area {
+      padding-left: 25px;
+      padding-bottom: 120px;
+  }
+  .team-img img {
+    width: 100%;
+    text-align: center;
+  }
+  .contact-title h2 {
+      font-size: 60px;
+  }
+  .form-group textarea {
+      height: 200px;
+  }
+.form-btn .btn {
+    margin-bottom: 50px;
+}
+.clint-title h2 {
+    font-size: 55px;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
+    top: -55px;
+}
+.blog-wrapper {
+    margin-bottom: 40px;
+}
+.mean-container .mean-nav {
+    margin-top: 60px;
+}
+}
+/* mobile Device. */
+@media (max-width: 460px) {
+  .slider-title h1 {
+      font-size: 50px;
+  }
+  .design-title h2 {
+      font-size: 45px;
+      margin-bottom: 30px;
+  }
+  .skill-title h2 {
+      font-size: 50px;
+  }
+  .protfolio-title h2 {
+      font-size: 60px;
+  }
+  .protfolio-area .butn {
+      margin-right: 19px;
+  }
+  .subs-title h2 {
+      font-size: 26px;
+  }
+  .education-header h2 {
+      font-size: 60px;
+  }
+  .team-title h2 {
+      font-size: 60px;
+  }
+  .blog-title h2 {
+      font-size: 60px;
+  }
+  .blog-content h2 {
+      font-size: 16px;
+  }
+  .blog-wrapper .i-b-meta span {
+      font-size: 13px;
+  }
+  .blog-content p {
+      font-size: 13px;
+  }
+  .blog-content-2 h2 {
+      font-size: 19px;
+  }
+  .blog-wrapper-2 .i-b-meta span {
+      font-size: 13px;
+  }
+  .footer-right-title h2 {
+      font-size: 24px;
+  }
+  .subs-wrapper {
+    padding: 50px 60px;
+}
+.counter-image {
+    height: 110px;
+    width: 110px;
+    line-height: 121px;
+    margin-bottom: 10px;
+}
+.counter-content span {
+    font-size: 55px;
+}
+.blog-wrapper-2 {
+    padding: 25px;
+}
+.work-wrapper {
+    padding: 25px;
+}
+}
+@media (max-width: 420px) {
+  .slider-title h1 {
+    font-size: 42px;
+}
+  .design-title h2 {
+      font-size: 40px;
+  }
+  .design-btn .btn-1 {
+  margin-left: 0px;
+  }
+  .skill-title h2 {
+      font-size: 45px;
+  }
+  .protfolio-area .butn {
+      margin-right: 35px;
+  }
+  .subs-wrapper {
+    padding: 50px 40px;
+  }
+  .woork-title h2 {
+      font-size: 40px;
+  }
+  .education-header h2 {
+      font-size: 50px;
+  }
+  .team-title h2 {
+      font-size: 50px;
+  }
+  .contact-title h2 {
+      font-size: 50px;
+  }
+  .counter-image {
+      height: 100px;
+      width: 100px;
+      margin-bottom: 10px;
+      line-height: 110px;
+  }
+  .counter-content span {
+      font-size: 52px;
+  }
+  .clint-title h2 {
+      font-size: 50px;
+      margin-bottom: 65px;
+  }
+  .blog-title h2 {
+      font-size: 50px;
+  }
+  .footer-right-title h2 {
+      font-size: 21px;
+  }
+  .education-icon i {
+      line-height: 60px;
+      font-size: 17px;
+      height: 60px;
+      width: 60px;
+  }
+  .education-icon {
+      top: 23%;
+      left: -30px;
+  }
+}
+@media (max-width: 375px) {
+  .work-wrapper-title h3 {
+      font-size: 23px;
+  }
+  .slider-btn .btn {
+      display: inline-block;
+      margin-right: 50px;
+      margin-bottom: 25px;
+  }
+  .single-slider {
+      min-height: 620px;
+  }
+  .slider-content span {
+      margin-bottom: 33px;
+  }
+  .design-btn .btn {
+      display: inline-block;
+      margin-bottom: 20px;
+  }
+  .progress-bar .span-2 {
+      left: 70%;
+  }
+  .protfolio-title h2 {
+      font-size: 55px;
+  }
+  .form-group textarea {
+      height: 150px;
+  }
+  .blog-content-2 h2 {
+      font-size: 17px;
+  }
+}
+@media (max-width: 350px) {
+  .design-title h2 {
+      font-size: 35px;
+  }
+  .skill-title h2 {
+      font-size: 40px;
+  }
+  .progress-bar .span-1 {
+      left: 63%;
+  }
+  .progress-bar .span-4 {
+      left: 73%;
+  }
+  .protfolio-area .butn {
+      margin-right: 20px;
+  }
+  .protfolio-title h2 {
+      font-size: 50px;
+  }
+  .woork-title h2 {
+      font-size: 35px;
+  }
+  .education-header h2 {
+      font-size: 45px;
+  }
+  .team-title h2 {
+      font-size: 45px;
+  }
+  .clint-title h2 {
+      font-size: 45px;
+  }
+  .blog-wrapper .i-b-meta span {
+      margin-right: 7px;
+  }
+  .footer-right-title h2 {
+      font-size: 17px;
+  }
+  .protfolio-text h2 a {
+    font-size: 25px;
+}
+.protfolio-text {
+  padding: 25px;
+}
+.footer-single-content a {
+    font-size: 17px;
+}
+}
+@media (max-width: 330px) {
+  .slider-title h1 {
+      font-size: 39px;
+  }
+  .skill-title h2 {
+      font-size: 32px;
+  }
+  .protfolio-title h2 {
+      font-size: 40px;
+  }
+  .work-wrapper-title h3 {
+      font-size: 21px;
+  }
+  .work-wrapper-title span {
+      font-size: 12px;
+  }
+}
+/* ------------------KAzi Talat Hridoy------------------ */
